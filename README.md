@@ -1,2 +1,6 @@
 # Explore-your-data
-A website based on Flask, Ajax and JQuery, which enable users to search keywords in Firebase and navigate among data through foreign keys.
+The website is based on Flask on the back-end, Bootstrap, JavaScript, Ajax and JQuery on the front-end. The website enable users to search for keywords in Firebase and navigate among data through foreign keys.
+
+Import.py is used for importing data from relational database to Firbase.
+Templates are the front-end page.
+Static contains all the js file.
